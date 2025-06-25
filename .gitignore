@@ -1,2 +1,7 @@
 _site/\n_render/\n_cache/\n*.utf8.md\n*.knit.md
 /.quarto/
+
+
+_site 
+
+
